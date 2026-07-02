@@ -4,7 +4,7 @@
 # Integrantes
 * María Isabel Valdovinos Lira 
 * Santiago Emanuel Cariño Macedo
-* Rodrigo Flores
+* Rodrigo Flores Novia
 * Isaac Ulises Pérez Bravo
 
 ## Objetivo
