@@ -28,8 +28,8 @@ public class Bebida extends Producto implements Vendible {
     }
 
     @Override
-    public void mostrarinformacion() {
-        super.mostrarinformacion();
+    public void mostrarInformacion() {
+        super.mostrarInformacion();
         System.out.println("Tamaño: " + tamano);
         System.out.println("Temperatura: " + (fria ? "Fría" : "Caliente"));
     }

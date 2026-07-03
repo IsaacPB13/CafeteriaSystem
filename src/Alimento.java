@@ -28,8 +28,8 @@ public class Alimento extends Producto implements Vendible {
     }
 
     @Override
-    public void mostrarinformacion() {
-        super.mostrarinformacion();
+    public void mostrarInformacion() {
+        super.mostrarInformacion();
         System.out.println("Vegetariano: " + (vegetariano ? "Sí" : "No"));
         System.out.println("Calorías: " + calorias);
     }
